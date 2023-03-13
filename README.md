@@ -1,8 +1,4 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://yero.dev">Yero</a></h2>
-<p align="center">
-  <a href="https://www.instagram.com/yerolopolo/">Instagram</a> •
-  <a href="https://twitter.com/yerolopolo">Twitter</a>
-</p>
 
 
 **Talking about Personal Stuffs:**
