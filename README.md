@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://yerolopolo.github.io/profile/">Yero</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://yero.dev">Yero</a></h2>
 <p align="center">
   <a href="https://www.instagram.com/yerolopolo/">Instagram</a> •
   <a href="https://twitter.com/yerolopolo">Twitter</a>
@@ -7,7 +7,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on FiveM script development.
+- 👨🏽‍💻  I’m currently working on my own website and yeroChat.
 - 💬  Ask me about anything, I am happy to help.
 - 📫  My discord is: Yero#0001.
 
@@ -17,7 +17,7 @@
 
 📈 My Github stats <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yerolopolo&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=yerolopolo&theme=dark&show_icons=true" />  
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerolopolo&layout=compact&theme=dark" alt="top-langs" />
