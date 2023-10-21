@@ -1,11 +1,11 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://yero.dev">Yero</a></h2>
+<h2 align="center">Hey, I'm <a href="https://yero.dev">Yero</a></h2>
 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on my own website and yeroChat.
+- 👨🏽‍💻  I’m currently working on my own website and my 3d printer.
 - 💬  Ask me about anything, I am happy to help.
-- 📫  My discord is: Yero#0001.
+- 📫  My discord is: yero_
 
 ***
 
